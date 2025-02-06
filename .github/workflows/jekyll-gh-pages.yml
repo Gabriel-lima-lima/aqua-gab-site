@@ -1,0 +1,74 @@
+
+: #008cba;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        header img {
+            width: 150px;
+            height: auto;
+            display: block;
+            margin: 0 auto 10px;
+        }<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AquaGab - Limpeza e Manutenção de Piscinas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff;
+            text-align: center;
+        }
+        header {
+            background-color
+        section {
+            padding: 20px;
+        }
+        .contact {
+            background-color: #eee;
+            padding: 20px;
+        }
+        footer {
+            background-color: #008cba;
+            color: white;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Logo AquaGab">
+        <h1>AquaGab</h1>
+        <p>Especialistas em limpeza e manutenção de piscinas</p>
+    </header>
+    <section>
+        <h2>Sobre Nós</h2>
+        <p>A AquaGab oferece serviços profissionais de limpeza e manutenção de piscinas, garantindo água cristalina e segura para você e sua família.</p>
+    </section>
+    <section>
+        <h2>Nossos Serviços</h2>
+        <ul>
+            <li>Limpeza completa de piscinas</li>
+            <li>Tratamento químico da água</li>
+            <li>Reparo e manutenção de equipamentos</li>
+            <li>Consultoria para conservação de piscinas</li>
+        </ul>
+    </section>
+    <section class="contact">
+        <h2>Contato</h2>
+        <p>Proprietário: Gabriel Lima</p>
+        <p>Telefone: <a href="tel:+5511974465305">(11) 97446-5305</a></p>
+        <p>Email: <a href="mailto:gabriellimadealmeidabiel@gmail.com">gabriellimadealmeidabiel@gmail.com</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2025 AquaGab - Todos os direitos reservados</p>
+    </footer>
+</body>
+</html>
